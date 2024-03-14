@@ -1,5 +1,29 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# HelloMe-Money
+
+HelloMe Money Landing Page Exercise
+
+Downloading / Cloning the Project
+To download or clone the project from GitHub, follow these steps:
+
+bash: git clone https://github.com/WapSecure/HelloMe-Money.git
+
+Installation
+To install the project dependencies, navigate to the project directory and run:
+
+bash: npm install OR yarn
+
+Running the Project
+To run the project locally, use the following command:
+
+bash npm run dev OR yarn dev
+
+The project will start on http://localhost:3000. You can view it in your browser.
+
+Contact
+If you have any questions or feedback, feel free to contact me at [writewapsecure@gmail.com].
+
 ## Getting Started
 
 First, run the development server:
@@ -34,5 +58,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# HelloMe-Money
-HelloMe Money Landing Page Exercise
